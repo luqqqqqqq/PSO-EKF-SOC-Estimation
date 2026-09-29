@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these data, models or results, please cite the accompanying paper."
+title: "PSO-EKF SOC Estimation"
+type: software
+version: 1.0.0
+date-released: 2026-09-29
+url: "https://github.com/luqqqqqqq/PSO-EKF-SOC-Estimation"
+repository-code: "https://github.com/luqqqqqqq/PSO-EKF-SOC-Estimation"
+license: MIT
+authors:
+  - family-names: Lu
+    given-names: Xihong
+  - family-names: Chen
+    given-names: Mingyang
+  - family-names: Tian
+    given-names: Yong
+preferred-citation:
+  type: article
+  title: "Accurate state-of-charge estimation of LiFePO4 battery: An adaptive extended kalman filter approach using particle swarm optimization"
+  authors:
+    - family-names: Lu
+      given-names: Xihong
+    - family-names: Chen
+      given-names: Mingyang
+    - family-names: Tian
+      given-names: Yong
+  journal: "Energy Reports"
+  year: 2025
+  volume: "14"
+  start: 1169
+  end: 1178
+  doi: "10.1016/j.egyr.2025.07.023"
