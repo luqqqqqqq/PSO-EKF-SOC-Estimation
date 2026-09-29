@@ -21,6 +21,8 @@
 
 > Xihong Lu, Mingyang Chen, Yong Tian. **Accurate state-of-charge estimation of LiFePO4 battery: An adaptive extended kalman filter approach using particle swarm optimization.** *Energy Reports*, 14 (2025), 1169–1178. [DOI: 10.1016/j.egyr.2025.07.023](https://doi.org/10.1016/j.egyr.2025.07.023)
 
+**论文与引用：** [出版社原文](https://www.sciencedirect.com/science/article/pii/S2352484725004500) · [引用说明](docs/citation.md) · [BibTeX](CITATION.bib) · [RIS](CITATION.ris)。引用本研究时请引用上述论文；复用代码或数据时，请同时注明所使用的仓库版本或提交。
+
 This repository accompanies the published paper and provides final experimental inputs, model implementations, figures and reported metrics. It covers three LiFePO₄ cells under HPPC, FUDS and NEDC conditions at 25 °C. See [reproduction notes](docs/reproduction.md) for the distinction between reported paper results and new simulation outputs.
 
 ## 主要特性
@@ -65,6 +67,8 @@ This repository accompanies the published paper and provides final experimental 
 ├── docs/                    # 使用、复现、结果与引用说明
 ├── licenses/                # 数据及第三方许可全文
 ├── CITATION.cff
+├── CITATION.bib              # 论文 BibTeX
+├── CITATION.ris              # 论文 RIS
 ├── NOTICE.md
 ├── checksums.sha256
 ├── README.md
@@ -85,7 +89,7 @@ This repository accompanies the published paper and provides final experimental 
 | [实验结果](docs/results.md) | 完整指标与解释 |
 | [结果图目录](results/figures/README.md) | 各电池和工况的曲线、误差图 |
 | [开发与验证](docs/development.md) | 已完成检查与运行验证范围 |
-| [论文引用](docs/citation.md) | 论文链接、BibTeX 与引用方式 |
+| [论文引用](docs/citation.md) | 标准参考文献、BibTeX / RIS 与仓库版本引用 |
 | [更新日志](CHANGELOG.md) | 公开版本内容 |
 
 ## 开发与验证

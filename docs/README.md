@@ -10,5 +10,5 @@
 | [实验结果](results.md) | 论文报告指标与解释 |
 | [结果图目录](../results/figures/README.md) | 曲线和误差图 |
 | [开发与验证](development.md) | 检查范围和运行限制 |
-| [论文引用](citation.md) | 正式论文与 BibTeX |
+| [论文引用](citation.md) | 正式论文、BibTeX / RIS 与仓库版本引用 |
 | [许可说明](../NOTICE.md) | 代码、模型、数据及图表许可 |
